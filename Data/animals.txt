@@ -1,0 +1,6 @@
+Johnny : J550
+Cat : C300
+Dog : D200
+Salamander : S4553
+Frog : F200
+Fish : F200
